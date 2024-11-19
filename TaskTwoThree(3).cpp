@@ -3,9 +3,6 @@
 //
 
 
-#include <iostream>
-#include <string>
-#include <windows.h> // Для роботи з SetConsoleCP і SetConsoleOutputCP
 
 int main() {
     std::string firstName, lastName;
