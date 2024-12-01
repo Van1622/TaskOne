@@ -1,6 +1,3 @@
-//
-// Created by Hi-Tech on 14.11.2024.
-//
 
 #include <iostream>
 
