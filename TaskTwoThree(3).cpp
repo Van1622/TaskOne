@@ -1,8 +1,7 @@
-//
-// Created by Hi-Tech on 14.11.2024.
-//
 
 
+#include <iostream>
+#include <string>
 
 int main() {
     std::string firstName, lastName;
