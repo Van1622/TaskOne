@@ -1,6 +1,3 @@
-//
-// Created by Hi-Tech on 19.11.2024.
-//
 
 #include "TaskTwoTh.h"
 #include <iostream>
