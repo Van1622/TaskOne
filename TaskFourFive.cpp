@@ -1,7 +1,3 @@
-//
-// Created by Hi-Tech on 01.12.2024.
-//
-
 
 #include <iostream>
 #include <vector>
