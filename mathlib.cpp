@@ -1,5 +1,5 @@
 #include "mathlib.h"
-#include <cmath> // Використовуємо стандартні функції з цієї бібліотеки
+#include <cmath> 
 
 namespace mathlib {
 
@@ -15,5 +15,5 @@ double round(double x) {
     return std::round(x);
 }
 
-} // namespace mathlib
+} 
 
