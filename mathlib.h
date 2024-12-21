@@ -3,12 +3,11 @@
 
 namespace mathlib {
 
-// Оголошення функцій
-double sqrt(double x);       // Квадратний корінь
-double pow(double base, double exponent); // Піднесення до степеня
-double round(double x);      // Округлення
+double sqrt(double x);     
+double pow(double base, double exponent); 
+double round(double x);     
 
-} // namespace mathlib
+} 
 
 #endif // MATHLIB_H
 
